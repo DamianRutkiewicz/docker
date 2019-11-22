@@ -2,7 +2,7 @@ language: node_js
 
 # os: osx
 
-sudo: required
+sudo: true
 services:
   - docker
 
